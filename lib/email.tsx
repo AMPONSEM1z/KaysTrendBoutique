@@ -129,7 +129,7 @@ export async function sendOrderReceipt(
            Footer 
           <div style="background-color: #f3f4f6; padding: 20px; text-align: center; border-top: 1px solid #e5e7eb;">
             <p style="margin: 0; font-size: 14px; color: #6b7280;">
-              © ${new Date().getFullYear()} AccraPrice. All rights reserved.
+              © ${new Date().getFullYear()} KaysTrendBoutique. All rights reserved.
             </p>
           </div>
         </div>
