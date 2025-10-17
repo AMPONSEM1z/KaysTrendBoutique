@@ -275,8 +275,8 @@ export default async function HomePage() {
               Ready to Start Shopping?
             </h2>
             <p className="mx-auto mb-8 max-w-2xl text-lg text-white/90">
-              Join thousands of satisfied customers who trust AccraPrice for
-              quality imported products at unbeatable prices.
+              Join thousands of satisfied customers who trust KaysTrendBoutique
+              for quality imported products at unbeatable prices.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Button
