@@ -53,7 +53,7 @@ export async function POST(req: NextRequest) {
                   Your order <strong>#${orderNumber}</strong> is now marked as <strong>PAID</strong>.
                 </p>
 
-                <a href="https://accraprice.netlify.app//auth/login" 
+                <a href="https://kaystrendboutique.netlify.app/auth/login" 
                    style="background-color:#16a34a; color:white; padding:12px 28px; text-decoration:none; border-radius:8px; font-weight:600; display:inline-block;">
                   View Your Order
                 </a>
@@ -66,7 +66,7 @@ export async function POST(req: NextRequest) {
             </tr>
             <tr>
               <td style="text-align:center; padding:20px; color:#9ca3af; font-size:12px;">
-                &copy; ${new Date().getFullYear()} AccraPrice. All rights reserved.
+                &copy; ${new Date().getFullYear()} KaysTrendBoutigue. All rights reserved.
               </td>
             </tr>
           </table>
